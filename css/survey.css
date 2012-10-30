@@ -1,0 +1,403 @@
+body
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	
+}
+
+h3
+{
+	font-size:24px;
+	text-align:center;
+}
+
+.center
+{
+	text-align:center;
+}
+.bold_text
+{
+	font-weight:bold;
+}
+#center
+{
+	text-align:center;
+}
+
+#content
+{
+	width: 950px;
+	font-size: 16px;
+	margin-left: 100px;
+	-webkit-transition: all 0s ease-in 5s;
+	-moz-transition: all 0s ease-in 5s;
+	-ms-transition: all 0s ease-in 5s;
+	-o-transition: all 0s ease-in 5s;
+	transition: all 0s ease-in 5s;
+	
+}
+
+button.surveybutton
+{
+   width:13.8%;
+   height:50px;
+}
+.consent_box
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 1000px;
+	margin: auto;
+	height: 500px;
+	border: 2px solid #666;
+	overflow: scroll;
+	padding:5px;
+	
+}
+#survey {
+	padding-left: 5px;
+}
+#controls_and_anchors{
+	position: absolute;
+	top: 175px;
+	width: 500;
+	visibility: visible;
+}
+#controls {
+	position: relative;
+	visibility: visible;
+}
+#anchors {
+	height: auto;
+	margin-bottom: 60px;
+	-webkit-transition: all 0s ease 5s;
+	-moz-transition: all 0s ease 5s;
+	-ms-transition: all 0s ease 5s;
+	-o-transition: all 0s ease 5s;
+	transition: all 0s ease 5s;
+}
+#anchor_left {
+  float:left;
+}
+#anchor_right {
+  float:right;
+}
+#quit{
+  float:right;
+  margin-top:100px;
+  clear:both;
+}
+#lower {
+  clear:both;
+}
+.container section
+{
+	font-weight: normal;
+	margin-top: 50px;
+	font-size: 14px;
+}
+
+.container #content h3 {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: 2px;
+}
+.container #content {
+	width: 950px;
+	text-align: left;
+	font-weight: bold;
+}
+
+label
+{
+	padding-left: 20px;
+}
+
+.footer
+{
+	padding-left: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+	padding-top: 10px;
+	margin-right:200px;
+}
+.center {
+	text-align: center;
+	float: right;
+	margin-top: auto;
+	margin-right: 350px;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+.continue {
+	display: block;
+	float: right;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+.bold_text {
+	font-weight: bolder;
+	font-size: 18px;
+}
+#content section p {
+	text-align: center;
+}
+.bold-text-big-font
+{
+	font-weight: bolder;
+	font-stretch: expanded;
+	font-size: 18px;
+	margin-left: 100px;
+}
+.content .container
+{
+	width: 950px;
+	text-align: left;
+	font-weight: bold;
+
+}
+
+table {
+	border-width: 0px;
+	border-spacing: 2px;
+	border-style: none;
+	border-color: gray;
+	border-collapse: separate;
+	background-color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	-webkit-transition: background-position 10s ease-in 20s;
+	-moz-transition: background-position 10s ease-in 20s;
+	-ms-transition: background-position 10s ease-in 20s;
+	-o-transition: background-position 10s ease-in 20s;
+	transition: background-position 10s ease-in 20s;
+}
+table th {
+	border-width: 0px;
+	padding: 1px;
+	border-style: none;
+	border-color: gray;
+	background-color: white;
+	-moz-border-radius:3px ;
+}
+table td {
+	border-width: 0px;
+	padding: 1px;
+	border-style: none;
+	border-color: gray;
+	background-color: white;
+
+
+	-moz-border-radius: ;
+	vertical-align: text-top;
+	text-align: justify;
+}
+
+input
+{
+	color: #000;
+	background-color: #FF9;
+
+}
+.changedField
+{
+background:#000;
+color:#CCC;
+  opacity: .7;
+
+}
+.currentField
+{
+background:#CCC;
+color:#333;
+}
+#submit {
+	float: right;
+	-webkit-transition: all 0s ease-in 10s;
+	-moz-transition: all 0s ease-in 10s;
+	-ms-transition: all 0s ease-in 10s;
+	-o-transition: all 0s ease-in 10s;
+	transition: all 0s ease-in 10s;
+	margin-right: 10px;
+}
+.underline-big {
+	text-decoration: underline;
+	font-size:16px;
+}
+#font_medium {
+	font-size: 16px;
+}
+.next
+{
+	float:right;
+	margin-right:300px;
+	-webkit-transition: all 0s ease-in 5s;
+	-moz-transition: all 0s ease-in 5s;
+	-ms-transition: all 0s ease-in 5s;
+	-o-transition: all 0s ease-in 5s;
+	transition: all 0s ease-in 5s;
+	}
+.margin-top
+{
+	margin-top:30px;
+}#content #survey table {
+	;
+	width: 100%;
+	margin-left: 100px;
+}
+
+.completed
+{
+	margin-left:300px;
+}
+.form-labels {
+	font-size: 14px;
+}
+p #consent-radios_0 {
+	color: #FFF;
+	background-color: #FFF;
+}
+.welcome_arrow {
+	float: right;
+	margin-right: 20%;
+}
+.container .content div .continue sup {
+	font-size: 10px;
+}
+#consent_form address p #submit_consent {
+	background-color: #CCC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	float: right;
+	margin-right: 400px;
+}
+#show_text
+{
+	margin-top:20px;
+	font-size: 16px;
+	font-weight: bold; 
+	text-align: center;
+	-webkit-transition: all 0s ease-in 5s;
+	-moz-transition: all 0s ease-in 5s;
+	-ms-transition: all 0s ease-in 5s;
+	-o-transition: all 0s ease-in 5s;
+	transition: all 0s ease-in 5s;
+}#submit_hide {
+	visibility: hidden;
+	
+	-webkit-transition: background-position 30s ease-in 100s;
+	-moz-transition: background-position 30s ease-in 100s;
+	-ms-transition: background-position 30s ease-in 100s;
+	-o-transition: background-position 30s ease-in 100s;
+	transition: background-position 30s ease-in 100s;
+	
+}
+#anchors:target {
+	background-position: 700px;
+}
+.shoot_me
+{
+	margin-left:300px;
+}#example1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+}
+ul
+{
+list-style:none;	
+}
+#rating_radios_0 {
+	background-color: #FFF;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	margin-right: 20px;/*centers the radios*/
+	list-style: none;
+	padding-top:auto;
+	
+}
+
+.rate1
+{
+	float:left;
+	width:20%;
+		height:100%;
+
+	margin-right:30px;;
+}
+.rate2
+{
+	float: left;
+	width: 100px;
+	display: table-row;
+	margin-bottom: 0px;
+	margin-right: 30px;
+	height: 100%;
+
+	
+}
+
+.rate3
+{
+	clear: right;
+	width: 100px;
+	display: table-row;
+	margin-top: auto;
+	height: 100px;
+	overflow: hidden;
+	text-align: center;
+
+}
+.rate_container
+{
+	width: 400px;
+	height:100px;
+	padding-top:10px;
+	
+	list-style-type: none;
+	cursor: auto;
+	filter: Alpha(Opacity=30%, FinishOpacity=100%);
+}
+
+.rate3 ul
+{
+	overflow: hidden;
+	float: left;
+	display: block;
+	vertical-align: top;
+	background-position: top;
+	margin-top: 0px;
+
+}
+.container fieldset
+{
+	margin-top:15px;
+}
+.ac_container
+{
+	width:300px;
+	heigh:100%;
+}
+
+.temp_errors
+{
+	background-color: #F2DEDE;
+	border: thin solid #F00;
+	margin-left: 50px;
+	
+}
+
+.temp_errors ul
+{
+	list-style:none;
+}
+
+.temp_errors ul li
+{
+	display:inline;
+margin-left:10px;
+}
+
+#datepicker
+{
+	z-index:1000;
+}
